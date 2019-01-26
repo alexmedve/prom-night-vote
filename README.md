@@ -6,4 +6,5 @@ When they enter the code on the website, the code is deleted from the database s
 Also, after they vote a cookie is created that does not allow them to vote again if they go a page back.
 
 *The generate.php file generates random voting codes*
+<br>
 *The poll.sql file it's the import for the database that also has 500 voting codes.*
