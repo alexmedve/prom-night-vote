@@ -1,0 +1,32 @@
+html,
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-deck .card {
+	margin-bottom: 25px;
+	-webkit-box-shadow: 10px 10px 23px -5px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 10px 10px 23px -5px rgba(0, 0, 0, 0.75);
+	box-shadow: 10px 10px 23px -5px rgba(0, 0, 0, 0.75);
+}
+
+div.container {
+	margin-top: 15px;
+}
+
+.nav-pills {
+	text-align: center;
+}
+
+.card-body h5,p {
+	text-align: center;
+}
+
+ul li {
+	font-size: 20px;
+}
+
+.list-group {
+	margin-bottom: 20px;
+}
